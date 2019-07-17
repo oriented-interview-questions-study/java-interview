@@ -1,4 +1,4 @@
-# Java面试每日 **3+1**（每日三问）
+# Java面试 **3+1**（每次三问）
 
 > 项目灵感来自 [前端面试每日 3+1](https://github.com/haizlin/fe-interview)
 
