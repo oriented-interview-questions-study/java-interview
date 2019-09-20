@@ -15,6 +15,9 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**、感谢**watch**
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
+## 形式
+
+![](https://raw.githubusercontent.com/gaohanghang/images/master/img/20190921014808.png)
 
 ## License
 [![MIT](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
